@@ -472,6 +472,27 @@ header .intro-text .name {
     font-size: 2.25em;
 }
 
+.personalEmail{
+    color: white;
+}
+
+.personalEmail:hover{
+    color:black;
+}
+
+.personalEmail:visited {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+}
+.personalEmail:active{
+    color:white
+}
+
+.personalEmail:focus{
+    color: white;
+}
+
 @media (max-width: 991px) {
     .navbar-header {
         float: none;

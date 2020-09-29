@@ -1,20 +1,18 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: TOMAS URIBE TOBON
+email: tomasu1027@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
-baseurl:
+keywords: "Software Engineer, JavaScript,React, NodeJS,Java,C "
+skills: "Aspiring Software Engineer"
+baseurl: 'TUTWebPage'
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://www.linkedin.com/in/tomas-uribe-tobon/
+  - title: github
+    url: https://github.com/tomasu10
     
 # Google webmaster tools
 google_verify:
